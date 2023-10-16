@@ -1,0 +1,6 @@
+module Pods_gameSocket {
+  umbrella header "Pods-gameSocket-umbrella.h"
+
+  export *
+  module * { export * }
+}

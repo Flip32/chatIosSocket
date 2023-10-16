@@ -1,0 +1,17 @@
+**/node_modules/
+
+Build/
+*.app
+*.appex
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+
+.DS_Store
+xcuserdata/
+/secrets/
+*.secrets
+
+xcuserdata/username.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+
+*.xcuserdatad
